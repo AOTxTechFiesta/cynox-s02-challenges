@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cynox1</string>
+    <string name="enter_flag">Enter Flag</string>
+    <string name="submit">Submit</string>
+    <string name="incorrect_flag">Incorrect Flag</string>
+    <string name="correct_flag">Correct Flag</string>
+</resources>
