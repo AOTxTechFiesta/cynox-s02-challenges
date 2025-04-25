@@ -128,7 +128,7 @@ local function handle_import()
         return
     end
 
-    local tmp_file = "/tmp/uploaded_config.lua"
+    local tmp_file = "/tmp/uploaded_config_" .. token .. ".lua"
     local f = io.open(tmp_file, "w")
     f:write(file_content)
     f:close()
