@@ -36,6 +36,12 @@ void interface()
 
 int main()
 {
+  setvbuf(stdout, NULL, _IONBF, 0);
+  setvbuf(stdin, NULL, _IONBF, 0);
+
+  fflush(stdout);
+  fflush(stdin);
+  
   printf("=== Omnitrix Authorization Interface ===\n");
   interface();
   printf("Authorization Failed. Alien transformation denied.\n");
