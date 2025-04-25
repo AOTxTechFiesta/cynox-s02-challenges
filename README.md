@@ -24,7 +24,6 @@
 - [Pixels of a Tyrant](./C14/README.md) - 700 pts (dynamic)
 - [fARMed](./C15/README.md) - 1000 pts (dynamic)
 - [Null Void Escape Protocol](./C16/README.md) - 700 pts (dynamic)
-- [Omnitrix Core Breach](./C17/README.md) - 700 pts (dynamic)
 - [Null Void Virus](./C18/README.md) - 1000 pts (dynamic)
 - [PlumberNet](./C19/README.md) - 500 pts (dynamic)
 - [Keep Out](./C20/README.md) - 500 pts (dynamic)
