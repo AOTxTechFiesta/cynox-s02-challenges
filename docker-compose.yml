@@ -4,39 +4,46 @@ services:
       context: ./C16/src
     ports:
       - "39213:9999"
+    restart: always
 
   cynox-c17:
     build:
       context: ./C17/src
     ports:
       - "40213:9999"
+    restart: always
 
   cynox-c18:
     build:
       context: ./C18/src
     ports:
       - "41213:9999"
+    restart: always
 
   cynox-c19:
     build:
       context: ./C19/src
     ports:
       - "9090:8080"
+    restart: always
 
   cynox-c20:
     build:
       context: ./C20/src
     ports:
       - "9091:8080"
+    restart: always
 
   cynox-c21:
     build:
       context: ./C21/src
     ports:
       - "9092:8080"
+    restart: always
 
   cynox-c22:
     build:
       context: ./C22/src
     ports:
       - "9093:8080"
+    restart: always
