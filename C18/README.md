@@ -17,7 +17,7 @@ Ben tried booting up his Plumber-issued terminal, only to find all the system bi
 Connect to the terminal using:
 
 ```bash
-nc plumber-terminal.ctf.aotfiesta25.tech 41213
+nc plumber-terminal.cynox.aotfiesta25.tech 41213
 ```
 
 ## Solution

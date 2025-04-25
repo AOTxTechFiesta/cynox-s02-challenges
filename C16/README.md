@@ -23,7 +23,7 @@ Can you find the flag's position and bring Grandpa Max back to Earth?
 Connect to the console using:
 
 ```bash
-nc escape-protocol.ctf.aotfiesta25.tech 39213
+nc escape-protocol.cynox.aotfiesta25.tech 39213
 ```
 
 ## Files

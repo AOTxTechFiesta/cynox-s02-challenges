@@ -18,7 +18,7 @@ Vilgax doesn't leave things unguarded. Someone has made sure the secret stays bu
 
 Can you help Ben uncover the buried truth before Vilgax returns?
 
-Open the website here: [hiddenentry.ctf.aotfiesta25.tech](https://hiddenentry.ctf.aotfiesta25.tech)
+Open the website here: [hiddenentry.cynox.aotfiesta25.tech](https://hiddenentry.cynox.aotfiesta25.tech)
 
 ## Solution
 

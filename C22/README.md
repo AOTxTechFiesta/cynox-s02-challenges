@@ -16,7 +16,7 @@ Vilgax, always one step ahead, has hidden a secret deep within the system, and i
 
 Ben needs your help to break through these defenses and uncover the truth. The question is, can you bypass the system's defenses before Vilgax's trap closes in?
 
-Open the website here: [vilgaxsys.ctf.aotfiesta25.tech](https://vilgaxsys.ctf.aotfiesta25.tech)
+Open the website here: [vilgaxsys.cynox.aotfiesta25.tech](https://vilgaxsys.cynox.aotfiesta25.tech)
 
 ## Solution
 

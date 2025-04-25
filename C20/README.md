@@ -18,7 +18,7 @@ Some paths are meant to be found. Some secrets are hidden in plain sight, guarde
 
 Will you help Ben ignore the warning signs and dive into what Vilgax didn’t want anyone — especially search engines — to see?
 
-Open the website here: [keep-out.ctf.aotfiesta25.tech](https://keep-out.ctf.aotfiesta25.tech)
+Open the website here: [keep-out.cynox.aotfiesta25.tech](https://keep-out.cynox.aotfiesta25.tech)
 
 ## Solution
 

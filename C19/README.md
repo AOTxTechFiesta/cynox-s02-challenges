@@ -14,7 +14,7 @@ Deep in the archives of PlumberNet, Gwen discovered an old website — a relic f
 
 Can you uncover the hidden message before it's lost in the static?
 
-Open the website here: [plumbernet.ctf.aotfiesta25.tech](https://plumbernet.ctf.aotfiesta25.tech)
+Open the website here: [plumbernet.cynox.aotfiesta25.tech](https://plumbernet.cynox.aotfiesta25.tech)
 
 ## Solution
 

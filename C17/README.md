@@ -21,7 +21,7 @@ Find a way into the core and unlock the transformation sequence. Somewhere insid
 Connect to the omnitrix console using:
 
 ```bash
-nc omnitrix.ctf.aotfiesta25.tech 40213
+nc omnitrix.cynox.aotfiesta25.tech 40213
 ```
 
 ## Files
