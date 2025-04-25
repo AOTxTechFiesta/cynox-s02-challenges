@@ -16,7 +16,7 @@ But Ben knows better. He’s seen this trick before.
 
 Some paths are meant to be found. Some secrets are hidden in plain sight, guarded not by lasers, but by instructions meant to scare intruders away. But Ben’s not just any intruder.
 
-Will you help Ben ignore the warning signs and dive into what Vilgax didn’t want anyone — especially search engines — to see?
+Will you help Ben ignore the warning signs and dive into what Vilgax didn’t want anyone to see?
 
 Open the website here: [keep-out.cynox.aotfiesta25.tech](https://keep-out.cynox.aotfiesta25.tech)
 
