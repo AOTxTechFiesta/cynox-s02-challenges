@@ -42,5 +42,5 @@ Finally, we can provide the address of the `plumber_warp_gate` function to the c
 ## Flag
 
 ```text
-cyn0x{b3n_f0und_th3_p0rt4l_jump_p01nt_thr0ugh_pwn}
+cyn0x{gr4ndp4_m4x_l3ft_th3_fl4g_4t_th3_r3turn_p0rt4l_4ddr3ss}
 ```
