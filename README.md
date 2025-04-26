@@ -31,4 +31,4 @@
 - [itsyourap's Shield](./C22/README.md) - 1000 pts (dynamic)
 - [Alien Signal Decoder](./C23/README.md) - 500 pts (dynamic)
 - [Code of the Ancients](./C24/README.md) - 500 pts (dynamic)
-- [Encoded in DNAliens](./C25/README.md) - 1000 pts (dynamic)
+- [Encoded in DNAliens](./C25/README.md) - 2000 pts (dynamic)
